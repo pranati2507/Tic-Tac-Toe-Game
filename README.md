@@ -26,7 +26,7 @@ Play it here: [Tic-Tac-Toe Live](https://tictactoefunnapp.tiiny.site)
 
 ## 📸 Screenshot
 
-![Tic-Tac-Toe Screenshot] (![Tic-Tac-Toe](https://github.com/user-attachments/assets/8ef5b1d2-0a13-483c-be09-4511461ff5cb)
+(![Tic-Tac-Toe](https://github.com/user-attachments/assets/8ef5b1d2-0a13-483c-be09-4511461ff5cb)
   ) <!-- Add your own screenshot if available -->
 
 ## 📬 Contact
